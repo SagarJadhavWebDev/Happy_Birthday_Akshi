@@ -62,7 +62,7 @@ li span {
 .giftbox:after {
   position: absolute;
   color: #fff;
-  text-transform: capitalize;;
+  text-transform: capitalize;
   width: 100%;
   content: "achieve all your dreams ";
   left: 0;
