@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Nov 15, 2020',
-  name: 'Akshi'
+  birthdate: 'Nov 26, 2020',
+  name: 'Darlene'
 };
 
 function hideEverything() {
@@ -470,13 +470,8 @@ x = setInterval(function() {
       merrywrap.className = 'merrywrap';
       merrywrap.className = 'merrywrap step-' + step;
     }
- 
-
-    
-
 
     function openBox() {
-       
       if (step === 1) {
         box.removeEventListener('click', openBox, false);
       }
