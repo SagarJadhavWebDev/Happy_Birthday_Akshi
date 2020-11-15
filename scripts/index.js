@@ -473,7 +473,7 @@ x = setInterval(function() {
  
 
     
-}
+
 
     function openBox() {
        
