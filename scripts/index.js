@@ -470,8 +470,15 @@ x = setInterval(function() {
       merrywrap.className = 'merrywrap';
       merrywrap.className = 'merrywrap step-' + step;
     }
+ 
 
+    function PS (){
+    var audio = new Audio('https://raw.githubusercontent.com/SagarJadhavWebDev/Happy_Birthday_Akshi/master/Birthday%20Fireworks.%20ANIMATION.mp3');
+     audio.PS();
+
+}
     function openBox() {
+       PS();
       if (step === 1) {
         box.removeEventListener('click', openBox, false);
       }
