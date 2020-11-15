@@ -472,11 +472,9 @@ x = setInterval(function() {
     }
  
 
-    function PS (){
-    var audio = new Audio('https://raw.githubusercontent.com/SagarJadhavWebDev/Happy_Birthday_Akshi/master/Birthday-Fireworks.mp3');
-     audio.PS();
-
+    
 }
+
     function openBox() {
        
       if (step === 1) {
