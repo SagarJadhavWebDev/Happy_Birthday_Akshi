@@ -473,7 +473,7 @@ x = setInterval(function() {
  
 
     function PS (){
-    var audio = new Audio('https://raw.githubusercontent.com/SagarJadhavWebDev/Happy_Birthday_Akshi/master/Birthday%20Fireworks.%20ANIMATION.mp3');
+    var audio = new Audio('https://raw.githubusercontent.com/SagarJadhavWebDev/Happy_Birthday_Akshi/master/Birthday-Fireworks.mp3');
      audio.PS();
 
 }
