@@ -478,7 +478,7 @@ x = setInterval(function() {
 
 }
     function openBox() {
-       PS();
+       
       if (step === 1) {
         box.removeEventListener('click', openBox, false);
       }
